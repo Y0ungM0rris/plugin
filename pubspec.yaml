@@ -12,8 +12,8 @@ dependencies:
     sdk: flutter
   flutter_markdown: 0.6.20+1
   http: 1.2.2
-  project_for_github_page:
-    path: ../../../project_for_github_page
+#  project_for_github_page:
+#    path: ../../../project_for_github_page
 
 dev_dependencies:
   flutter_test:
